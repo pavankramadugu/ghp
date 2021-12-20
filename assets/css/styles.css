@@ -268,3 +268,11 @@ footer {
     color:#444;
   }
 }
+
+.container {
+  display: flex;
+}
+
+.item {
+  margin-right: 20px;
+}
