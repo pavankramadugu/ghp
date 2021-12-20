@@ -2,7 +2,8 @@
 -------------------------
 
 ```
-Hey there! I'm Pavan. I did my bachelors at the Indian Institute of Information Technology, Allahabad and, I am currently working as a Software Engineer at Deutsche Bank.
+Hey there! I'm Pavan. I did my bachelors at the Indian Institute of Information Technology, Allahabad and,
+I am currently working as a Software Engineer at Deutsche Bank.
 
 My areas of interest include data-intensive application development, distributed systems, and machine intelligence.
 
