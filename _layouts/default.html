@@ -12,12 +12,10 @@
   <body>
     <div class="wrapper">
       <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        <p>Hey there! I'm Pavan. I did my bachelors at the Indian Institute of Information Technology, Allahabad and, I am currently working as a Software Engineer at Deutsche Bank.</p>
-        <p>My areas of interest include data-intensive application development, distributed systems, and machine intelligence.</p>
-        <p>I watch a lot of cinema and am a big sports fan. Real Madrid and Ferrari are my favourite teams.</p>
 
         <table>
           {% for nav in site.navigation %}
@@ -32,8 +30,6 @@
 
         {% if site.show_downloads %}
           <ul>
-            <!-- <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li> -->
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
         {% endif %}
