@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Pavan Kumar Ramadugu
 show_downloads: True
 logo: /assets/img/logo.jpg
-cv: https://drive.google.com/file/d/1stsV2nlaCm0sye4MQy89FkHktzXS4Bj5/view
+#cv: https://drive.google.com/file/d/1stsV2nlaCm0sye4MQy89FkHktzXS4Bj5/view
 navigation:
   - title: Home
     url: /

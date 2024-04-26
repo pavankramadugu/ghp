@@ -4,7 +4,7 @@ Feel free to reach me at:
 
 <div class="container">
    <div class="item">
-      <a href="mailto:pavankramadugu@gmail.com" target="_blank">
+      <a href="mailto:pkramadugu@gmail.com" target="_blank">
       <img align="left" width="35px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
       </a>
    </div>
@@ -16,11 +16,6 @@ Feel free to reach me at:
    <div class="item">
       <a href="https://t.me/PavanK57" target="_blank">
       <img align="left" width="35px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
-      </a>
-   </div>
-   <div class="item">
-      <a href="https://www.facebook.com/PavanKRamadugu/" target="_blank">
-      <img align="left" width="35px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
       </a>
    </div>
 </div>
